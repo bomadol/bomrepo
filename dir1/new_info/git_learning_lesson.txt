@@ -1,0 +1,26 @@
+TCP 3-way Handshake process 
+
+Host A       Host B
+
+ip packet 
+=========> 
+  syn          <=======
+                syn,ack
+==========>
+ ACK 
+
+********************************************
+Git is a version control system for tracking changes in computer files
+Who made what changes and when
+You can revert back at any time
+Via local and remote repos
+****************************
+Git commands include 
+1. git init = initionalize local git repo
+2. git add <file> add files to Index
+3. git status to check status of working tree
+4. git commit to commit changes in Index
+5. git push to push to remote repository 
+6. git pull to pull latest from remote repository
+7. git clone to clone repository into a new directory
+https://www.youtube.com/watch?v=SWYqp7iY_Tc
